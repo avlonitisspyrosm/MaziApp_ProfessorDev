@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Μαζί</string>
+    <string name="addPointsButtonTxt">Πρόσθεσε Πόντους</string>
+    <string name="removePointsButtonTxt">Αφαίρεσε Πόντους</string>
+    <string name="Title">Η εφαρμογή μου</string>
+    <string name="textViewPointsTxt">0</string>
+    <string name="winTitle">ΚΕΡΔΑΜΕ</string>
+    <string name="looseTitle">ΧΑΝΟΥΜΕ</string>
+    <string name="drawTitle">ΙΣΟΠΑΛΙΑ</string>
+</resources>
+
+
+
